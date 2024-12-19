@@ -1,15 +1,9 @@
 # Weather Dashboard
 
-### URL : https://sylviaprabudy.github.io/weather-dashboard/
 
 ## Description
 A simple web application that allows users to search for a city to get the current weather and 5 day forecast. Cities that users previously looked up will be saved in their local storage.
 
-## User Story
-```
-- AS A traveler
-- I WANT to see the weather outlook for multiple cities
-- SO THAT I can plan a trip accordingly
 ```
 
 ## Acceptance Criteria
@@ -35,15 +29,6 @@ A simple web application that allows users to search for a city to get the curre
 - Search history will be saved in local storage.
 - This weather daskboard app is mobile compatible.
 
-## Mock-Up
-![](assets/images/06-server-side-apis-homework-demo.png)
-
-## Technologies Use
-<p><a href="https://openweathermap.org/">OpenWeather API</a></p>
-<p><a href="https://getbootstrap.com/">Bootstrap</a></p>
 
 
-## Contributor:
-Sylvia Prabudy ©2020 All Rights Reserved.
-- - -
 
